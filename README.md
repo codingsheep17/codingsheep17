@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I’m currently working on being a Data Analyst<br><br>Python full stack development and API Handling.<br><br>🤝 I’m looking to collaborate on<br><br>Python projects, API-based apps, or beginner-friendly open-source projects.<br><br>🙋‍♂️ I’m looking for help with<br><br>Strengthening and Increasing my Skill Level<br><br>📘 I’m currently learning<br><br>Python modules, Pygame, Requests, and full-stack dev with Python.<br><br>💬 Ask me about<br><br>Anything Python-related, especially beginner to intermediate-level concepts.<br><br>⚡ Fun fact<br><br>I love coding And that says a lot.<br><br>
+🧑‍💻 I’m currently working on being a Data Analyst<br><br>Python full stack development and API Handling.<br><br>🤝 I’m looking to collaborate on<br><br>Python projects, API-based apps, or beginner-friendly open-source projects.<br><br>🙋‍♂️ I’m looking for help with<br><br>Strengthening and Increasing my Skill Level<br><br>📘 I’m currently learning<br><br>Python modules, Numpy, Pandas, PyTorch, Sickit Learn<br><br>💬 Ask me about<br><br>Anything Python-related, especially beginner to intermediate-level concepts.<br><br>⚡ Fun fact<br><br>I love coding And that says a lot.<br><br>
 
 
 ## 🌐 Socials:
