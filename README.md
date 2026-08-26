@@ -105,7 +105,6 @@ An AI-powered image enhancement pipeline combining image processing techniques a
 ## 📩 Let's Connect
 
 I'm open to **freelance work, collaborations, and interesting AI/Python projects**.
-
 If you're looking to turn an idea into a working application, automate a workflow, build an ML solution, or integrate AI into a project, let's talk.
 
 * **LinkedIn:** [linkedin.com/in/syedhaseebshah19](https://linkedin.com/in/syedhaseebshah19)
