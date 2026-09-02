@@ -18,7 +18,7 @@ If you have an idea that involves **Python, AI/ML, automation, data processing, 
 
 ## 💼 What I Can Build:
 
-* 🤖 **AI & Machine Learning Solutions** — predictive models, classification systems, anomaly detection, and intelligent data-driven applications
+* 🤖 **AI & Machine Learning Solutions** — predictive models, classification systems, anomaly detection, and intelligent applications
 * 🧠 **Deep Learning & Computer Vision** — image processing, enhancement pipelines, CNN-based solutions, and model integration
 * ⚙️ **Python Automation** — custom scripts and automation workflows that reduce repetitive work
 * 🔌 **REST APIs & Backend Systems** — Python APIs using FastAPI and Flask
